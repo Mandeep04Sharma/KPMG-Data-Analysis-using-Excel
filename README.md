@@ -3,6 +3,8 @@
 This Excel-based project analyzes customer and transaction data from a fictional KPMG dataset. The goal was to derive insights on customer behavior, lifetime value, sales trends, and segmentation using only Microsoft Excel.
 
 ---
+# 🎥 Project Video Walkthrough
+📽️ [Click here to watch the full video presentation](https://yourvideolink.com)
 
 ## 🛠 Tools & Techniques
 
