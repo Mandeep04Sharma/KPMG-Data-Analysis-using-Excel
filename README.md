@@ -4,7 +4,7 @@ This Excel-based project analyzes customer and transaction data from a fictional
 
 ---
 # 🎥 Project Video Walkthrough
-📽️ [Click here to watch the full video presentation](https://yourvideolink.com)
+📽️ [Click here to watch the full video presentation](https://drive.google.com/drive/folders/196lAkVsefX8Jv-HEPpgAneSxgjbziKpV)
 
 ## 🛠 Tools & Techniques
 
